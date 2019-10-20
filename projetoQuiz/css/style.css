@@ -1,0 +1,20 @@
+body{
+	background-image: url(../img/bg-space.jpg);
+	background-size: cover;
+	font-family: 'Modak', cursive;
+}
+.perg, .opc{
+	font-family: 'Baloo Bhai', cursive;
+}
+.mt-3v{
+	margin-top:30vh
+}
+fieldset{
+	border: 1px solid white; margin-top:20vh; border-radius: 5px
+}
+form input{
+ height: 50px; background: #ddd ;
+}
+.opcoesPlayer{
+	border: 1px solid white; border-radius: 50%; width: 35px; height: 35px;  padding-top: 5px; margin: 2px;
+}
